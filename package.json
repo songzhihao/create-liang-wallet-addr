@@ -1,0 +1,30 @@
+{
+  "name": "create-liang-wallet-addr",
+  "version": "1.0.0",
+  "description": "Node.js ETH vanity address generator",
+  "main": "eth.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/songzhihao/create-liang-wallet-addr.git"
+  },
+  "keywords": [
+    "Node.js",
+    "ETH",
+    "Ethereum",
+    "vanity",
+    "address"
+  ],
+  "author": "aix",
+  "license": "MIT",
+  "dependencies": {
+    "js-sha3": "^0.8.0",
+    "secp256k1": "^5.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/songzhihao/create-liang-wallet-addr/issues"
+  },
+  "homepage": "https://github.com/songzhihao/create-liang-wallet-addr#readme"
+}

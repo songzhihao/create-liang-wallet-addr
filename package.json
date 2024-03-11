@@ -1,5 +1,5 @@
 {
-  "name": "create-liang-wallet-addr",
+  "name": "create-liang-eth-addr",
   "version": "1.0.0",
   "description": "Node.js ETH vanity address generator",
   "main": "eth.js",

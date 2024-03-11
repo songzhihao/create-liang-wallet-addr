@@ -1,4 +1,4 @@
-# vanity-eth
+# create-liang-wallet-addr
 Node.js ETH vanity address generator
 
 ## Usage
